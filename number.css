@@ -1,0 +1,30 @@
+.border{
+    width:1000px;
+    height:200px;
+    border-style: solid;
+    border-color: black;
+    background-color: green;
+    color: white;
+    margin:auto;
+    margin-top: 10%;
+}
+.text{
+    padding: auto;
+    padding-left: 250px;
+    color: yellow;
+
+}
+.inner{
+    padding-left: 300px;
+    font-size: 20px;
+}
+#result{
+   color:black;
+   width:300px;
+   height:20px;
+   border:solid;
+   border-color: black;
+   margin-top: -7%;
+   padding-left: 150px ;
+   background-color: yellow;
+}
